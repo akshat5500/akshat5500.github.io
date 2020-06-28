@@ -1,10 +1,10 @@
 ## Day 1
-- [ x] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
-- [x ] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
-- [ x] Initialize this New Folder (**project_folder that you have copied in other location in your computer**) as a Git Repository using **_git init_**.
-- [ x] Push the contents to your new repository (**your_username.github.io**)
+- [x] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
+- [x] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
+- [x] Initialize this New Folder (**project_folder that you have copied in other location in your computer**) as a Git Repository using **_git init_**.
+- [x] Push the contents to your new repository (**your_username.github.io**)
 
-![x](../memes/m8.jpeg)
+![](../memes/m8.jpeg)
 
 ## Day 2
 - [ ] Start Learning HTML from 
