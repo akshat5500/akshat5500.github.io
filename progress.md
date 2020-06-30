@@ -24,8 +24,8 @@
     -Stylesheets
     -Basic Styling
 - Any useful resource found
-    -<a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc>youtube</a>
-    -<a href="https://www.w3schools.com/css/default.asp>w3schools</a>
+    -<a href="https://www.youtube.com/watch?v=1Rs2ND1ryYc">youtube</a>
+    -<a href="https://www.w3schools.com/css/default.asp">w3schools</a>
 
 
 
