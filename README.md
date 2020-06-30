@@ -22,7 +22,7 @@
 - [x] Make changes in the index.html page of your repository.
 - [x] Commit and push the changes to your repository.
 
-![](../memes/m5.jpeg)
+![x](../memes/m5.jpeg)
 ## Day 3
 - [x] Get acquainted with CSS
     Resource Links :
@@ -42,7 +42,7 @@
         - [x] Transforms, Transitions and Animations 
 - [x] You can also learn about CSS Frameworks like <a href="https://getbootstrap.com/">Bootstrap</a>
 
-![](../memes/m13.jpeg)
+![x](../memes/m13.jpeg)
 
 ## Day 4
 - [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
